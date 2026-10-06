@@ -1,5 +1,5 @@
 {
-  description = "CtrlPad desktop - Configuration app for the CtrlPad";
+  description = "Ctrlpad desktop - Configuration app for the Ctrlpad";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";

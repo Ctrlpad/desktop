@@ -14,7 +14,7 @@ function Menu() {
       <NavigationMenuList>
         <NavigationMenuItem>
           <NavigationMenuTrigger className="text-lg [&>svg]:h-5 [&>svg]:w-5">
-            CtrlPad
+            Ctrlpad
           </NavigationMenuTrigger>
           <NavigationMenuContent>
             <NavigationMenuLink className="w-48" href="/">

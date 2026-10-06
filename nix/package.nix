@@ -72,7 +72,7 @@ rustPlatform.buildRustPackage (finalAttrs: {
 
   meta = {
     description = ''
-      The desktop companion application for the CtrlPad. Connect to your device
+      The desktop companion application for the Ctrlpad. Connect to your device
       over Bluetooth to arrange the button layout, assign an action to every key
       and manage the rest of your device settings.
     '';

@@ -1,9 +1,9 @@
 name: ctrlpad-desktop
 base: core24
 version: "0.0.4"
-summary: Configuration app for the CtrlPad
+summary: Configuration app for the Ctrlpad
 description: |
-  The desktop companion application for the CtrlPad. Connect to your device
+  The desktop companion application for the Ctrlpad. Connect to your device
   over Bluetooth to arrange the button layout, assign an action to every key
   and manage the rest of your device settings.
 

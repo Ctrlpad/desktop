@@ -1,6 +1,6 @@
-# CtrlPad desktop application
+# Ctrlpad desktop application
 
-![GitHub stars](https://img.shields.io/github/stars/ctrlPad/firmware?style=for-the-badge&logo=github) ![GitHub issues](https://img.shields.io/github/issues/ctrlPad/firmware?style=for-the-badge&logo=github) ![Last commit](https://img.shields.io/github/last-commit/ctrlPad/firmware?style=for-the-badge&logo=github)
+![GitHub stars](https://img.shields.io/github/stars/ctrlpad/firmware?style=for-the-badge&logo=github) ![GitHub issues](https://img.shields.io/github/issues/ctrlpad/firmware?style=for-the-badge&logo=github) ![Last commit](https://img.shields.io/github/last-commit/ctrlpad/firmware?style=for-the-badge&logo=github)
 
 The desktop application is written in Typescript with [Tauri](https://tauri.app)]
 
@@ -17,7 +17,8 @@ To contribute to this project, please ensure you have [devenv](https://deven.sh)
 
 ```
 # Clone the repository
-git clone https://github.com/CtrlPad/desktop.git
+git clone https://github.com/Ctrlpad/desktop.git
+
 cd desktop
 
 # Enter the development environment
@@ -38,7 +39,8 @@ devenv shell
 ## Contributing
 
 1. **Fork** the repository
-2. **Clone** your fork: `git clone https://github.com/ctrlPad/desktop.git`
+2. **Clone** your fork: `git clone https://github.com/ctrlpad/desktop.git`
+
 3. **Branch**: `git checkout -b feature/your-feature`
 4. **Commit**: `git commit -m 'feat: add some feature'`
 5. **Push**: `git push origin feature/your-feature`

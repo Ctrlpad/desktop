@@ -11,10 +11,10 @@ let
 in
 {
   options.programs.ctrlpad-desktop = {
-    enable = lib.mkEnableOption "the CtrlPad desktop configuration app";
+    enable = lib.mkEnableOption "the Ctrlpad desktop configuration app";
 
     package = lib.mkPackageOption self.packages.${pkgs.stdenv.hostPlatform.system} "ctrlpad-desktop" {
-      pkgsText = "the CtrlPad desktop flake";
+      pkgsText = "the Ctrlpad desktop flake";
     };
   };
 

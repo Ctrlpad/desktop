@@ -32,7 +32,7 @@ function Connection() {
       <Card className="flex w-4xl">
         <CardHeader>
           <CardTitle className="flex justify-between">
-            <h1>Connect via Bluetooth with you ctrlPad</h1>
+            <h1>Connect via Bluetooth with you Ctrlpad</h1>
             <Button variant="outline" onClick={scanDevices}>
               <span>Refresh</span>
               <RefreshCcw />
