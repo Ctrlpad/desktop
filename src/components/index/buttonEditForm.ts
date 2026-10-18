@@ -3,9 +3,9 @@ import * as z from "zod";
 import { useLayoutStore, type Layout } from "@/routes/__root";
 
 export const buttonEditSchema = z.object({
-  icon: z.string().optional(),
-  buttonColor: z.string().optional(),
-  iconColor: z.string().optional(),
+  icon: z.string(),
+  buttonColor: z.string(),
+  iconColor: z.string(),
 });
 
 export function useButtonEditForm(buttonKey: keyof Layout) {
